@@ -1,0 +1,5 @@
+build main_build: phony i_see_you res
+build all: phony main_build
+default all
+edje-cc-dep-options = -deps $out.d
+binaryName = i_see_you

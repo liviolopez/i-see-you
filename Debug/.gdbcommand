@@ -1,0 +1,5 @@
+set sysroot /Users/liviolopez/tizen-studio/tools/smart-build-interface/../../platforms/tizen-6.0/wearable/rootstraps/wearable-6.0-emulator.core
+set debug-file-directory /Users/liviolopez/tizen-studio/tools/smart-build-interface/../../platforms/tizen-6.0/wearable/rootstraps/wearable-6.0-emulator.core/usr/lib/debug
+set solib-search-path /Users/liviolopez/Projects/Tizen/i_see_you/Debug
+dir /Users/liviolopez/tizen-studio/tools/smart-build-interface/../../platforms/tizen-6.0/wearable/rootstraps/wearable-6.0-emulator.core/usr/src/debug
+sharedlibrary
